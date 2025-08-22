@@ -43,10 +43,11 @@
   <a href="https://www.facebook.com/aaksaa.2025">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo" />
   </a>
-  <a href="https://id.linkedin.com/in/rifqi-adyasta-mahardika-54417130b">
+  <a href="https://id.linkedin.com/in/rifqi-adyasta">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
 ###
 
 <h4 align="left">Tools i use:</h4>
@@ -61,6 +62,7 @@
 </div>
 
 ###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Aaksaa/Aaksaa/output/snake.svg" alt="Snake animation" />
