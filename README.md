@@ -1,6 +1,4 @@
-<h1 align="left">Hi, I'm Aaksaa! (Officially known as Rifqi Adyasta Mahardika)</h1>
-
-<p align="left">Welcome to my simple GitHub profile!</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+Rifqi!+%F0%9F%91%8B%EF%B8%8F;Welcome+to+my+Github+profiles!" alt="Typing SVG" /></a>
 
 ###
 
